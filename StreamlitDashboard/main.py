@@ -5,7 +5,7 @@ if not st.session_state.get("page_config_done"):
     st.set_page_config(page_title="Tech Challenge Phase 4 | FIAP", layout="wide", initial_sidebar_state="expanded")
     st.session_state["page_config_done"] = True
 
-nav = get_nav_from_toml(".streamlit/pages.toml")
+nav = get_nav_from_toml("StreamlitDashboard/.streamlit/pages.toml")
 pg = st.navigation(nav)
 add_page_title(pg)
 

@@ -23,5 +23,5 @@ Streamlit application developed for Phase 4 of the Tech Challenge at FIAP by **G
 
 3. **Run the application:**
     ```bash
-    streamlit run main.py
+    streamlit run "StreamlitDashboard/main.py"
     ```
