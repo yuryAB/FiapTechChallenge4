@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Linux system files
+*.swp
+*~
+
+# Streamlit (ignore cache, but keep important config files)
+.streamlit/*
+!.streamlit/pages.toml
+
+# IDE configurations
+.vscode/
+.idea/
