@@ -19,6 +19,11 @@ name = "Insights"
 icon = "💡"
 
 [[pages]]
+path = "pages/prediction.py"
+name = "Previsão do Preço do Petróleo"
+icon = "📈"
+
+[[pages]]
 path = "pages/conclusion.py"
 name = "Conclusão"
 icon = "📄"
