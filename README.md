@@ -9,10 +9,10 @@ Streamlit application developed for Phase 4 of the Tech Challenge at FIAP by **G
 
 ## Running the Application
 
-1. **Clone this repository:**
+1. **Clone this repository and navigate into the project folder:**
     ```bash
-    git clone <https://github.com/yuryAB/FiapTechChallenge4.git>
-    cd <FiapTechChallenge4>
+    git clone https://github.com/yuryAB/FiapTechChallenge4.git
+    cd FiapTechChallenge4
     ```
 
 2. **Create and activate a virtual environment (recommended):**
